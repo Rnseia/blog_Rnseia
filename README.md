@@ -1,9 +1,10 @@
 # blog_Rnseia
 
 #### 小池同学的个人博客
-个人博客后台管理系统 ---- blog_back目录
-个人博客前台页面 ---- blog_front目录
-node搭建的express框架 ----  api目录
+> 
+* [x] 个人博客后台管理系统 ---- blog_back目录
+* [x] 个人博客前台页面 ---- blog_front目录
+* [x] node搭建的express框架 ----  api目录
 
 #### 技术栈
 > 
